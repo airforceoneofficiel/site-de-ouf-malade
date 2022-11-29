@@ -10,9 +10,58 @@ function ouvrirefenetres(){
 
     window.open(link1);     
     window.open(link2); 
-
-
-
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2); 
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2); 
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
+    window.open(link1);     
+    window.open(link2);
 //     setInterval(() => {       
 //         window.open(link1, link2);
 // }, 500);   
